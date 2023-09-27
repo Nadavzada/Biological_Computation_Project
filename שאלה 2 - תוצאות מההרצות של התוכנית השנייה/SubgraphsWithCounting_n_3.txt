@@ -1,0 +1,73 @@
+n=3
+count=13
+#1
+count appearances=1
+0 1
+0 2
+#2
+count appearances=1
+0 2
+1 0
+#3
+count appearances=0
+0 1
+0 2
+1 0
+#4
+count appearances=0
+0 2
+1 2
+#5
+count appearances=0
+0 1
+0 2
+1 2
+#6
+count appearances=0
+0 1
+0 2
+1 0
+1 2
+#7
+count appearances=0
+0 1
+1 0
+2 0
+#8
+count appearances=0
+0 1
+0 2
+1 0
+2 0
+#9
+count appearances=0
+0 1
+1 2
+2 0
+#10
+count appearances=0
+0 1
+0 2
+1 2
+2 0
+#11
+count appearances=0
+0 2
+2 0
+1 0
+1 2
+#12
+count appearances=0
+0 1
+0 2
+1 0
+1 2
+2 0
+#13
+count appearances=0
+0 1
+0 2
+1 0
+1 2
+2 0
+2 1
